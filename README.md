@@ -1,5 +1,5 @@
 # Zen Fonts Maru Gothic
-![Maru Gothic](Images/maruGothic.png)
+![Maru Gothic](images/maruGothic.png)
 
 ## The story of Zen Fonts
 
