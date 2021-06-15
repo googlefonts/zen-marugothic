@@ -1,6 +1,7 @@
 # Zen Fonts Maru Gothic
 
 ![Maru Gothic](images/maruGothic.png)
+Zen Maru Gothis is a rounded san serif family that gives a soft and natural impression due to the deep rounds in the corners. Because of this unique soft impression the thin weight is also easy to use in any scenes. Cute and fashionable, soft and easy for any communications.
 
 ## The story of Zen Fonts
 
